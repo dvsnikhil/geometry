@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.8.14)  22 SEP 2023 05:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.8.14)  30 SEP 2023 04:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1480,7 +1480,24 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Warning: Reference `eq:1.1.3,2' on page 6 undefined on input line 148.
 
+</sdcard/D.V.S.NIKHIL/figs/D.V.S.NIKHIL_figures/nikhil_image3.png, id=104, 430.
+60875pt x 343.2825pt>
+File: /sdcard/D.V.S.NIKHIL/figs/D.V.S.NIKHIL_figures/nikhil_image3.png Graphic 
+file (type png)
+<use /sdcard/D.V.S.NIKHIL/figs/D.V.S.NIKHIL_figures/nikhil_image3.png>
+Package pdftex.def Info: /sdcard/D.V.S.NIKHIL/figs/D.V.S.NIKHIL_figures/nikhil_
+image3.png  used on input line 151.
+(pdftex.def)             Requested size: 360.0pt x 286.99866pt.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
 Underfull \hbox (badness 10000) in paragraph at lines 159--161
 
  []
@@ -1491,16 +1508,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [6]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7]
+ [7 </sdcard/D.V.S.NIKHIL/figs/D.V.S.NIKHIL_figures/nikhil_image3.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1528,11 +1536,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [10]
-Underfull \hbox (badness 10000) in paragraph at lines 280--284
-
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1542,6 +1545,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11]
+Underfull \hbox (badness 10000) in paragraph at lines 280--284
+
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1565,20 +1573,40 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [14]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16
+
+]
 No file nikhilassignment.ind.
 (./nikhilassignment.aux)
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `nikhilassignment.out' has not changed.
 (rerunfilecheck)             Checksum: 912CC80C2A99AA38F37ECDBCDA3B4C8E;172.
  ) 
 Here is how much of TeX's memory you used:
- 33082 strings out of 476091
- 640891 string characters out of 5794081
+ 33093 strings out of 476091
+ 641388 string characters out of 5794081
  1867330 words of memory out of 5000000
- 52573 multiletter control sequences out of 15000+600000
+ 52579 multiletter control sequences out of 15000+600000
  523528 words of font info for 75 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  218i,19n,217p,1202b,749s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1594,10 +1622,10 @@ sfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/ms
 am10.pfb>
-Output written on nikhilassignment.pdf (18 pages, 191825 bytes).
+Output written on nikhilassignment.pdf (20 pages, 215714 bytes).
 PDF statistics:
- 297 PDF objects out of 1000 (max. 8388607)
- 249 compressed objects within 3 object streams
- 130 named destinations out of 1000 (max. 500000)
- 34 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 307 PDF objects out of 1000 (max. 8388607)
+ 256 compressed objects within 3 object streams
+ 132 named destinations out of 1000 (max. 500000)
+ 39 words of extra memory for PDF output out of 10000 (max. 10000000)
 
